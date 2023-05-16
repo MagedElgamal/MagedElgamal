@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Maged.algmal@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/oqCU9](my CV)
+- 📄 Know about my experiences [https://shorturl.at/oqCU9](https://shorturl.at/oqCU9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
