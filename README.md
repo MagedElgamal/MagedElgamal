@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">DevOps survivor trying to find alien life form in the vast darkness of the terminal screen . Country of origin Egypt ⁦🇪🇬⁩ | MBA student at UEL</h3>
 
 - 📝 I regularly write articles on [https://magedelgamal.medium.com/](https://magedelgamal.medium.com/)
-
 - 📫 How to reach me **Maged.algmal@gmail.com**
 
+- 📫 I am mentoring on ADPList 🚀! You can book a 1:1 session with me in no time! [
+](https://adplist.org/mentors/maged-elgamal)
 - 📄 Know about my experiences [https://shorturl.at/oqCU9](https://shorturl.at/oqCU9)
 
 <h3 align="left">Connect with me:</h3>
