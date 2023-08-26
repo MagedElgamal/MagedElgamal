@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **Maged.algmal@gmail.com**
 
 - 📫 I am mentoring on ADPList 🚀! You can book a 1:1 session with me in no time! [https://adplist.org/mentors/maged-elgamal](https://adplist.org/mentors/maged-elgamal)
-# - 📄 Know about my experiences [https://shorturl.at/oqCU9](https://shorturl.at/oqCU9)
+- 📄 Know about my experiences [[https://shorturl.at/oqCU9](https://shorturl.at/oqCU9](https://drive.google.com/file/d/1a4H12-T1aDa-emirX6gbe3vOo1e5tvsT/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
