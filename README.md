@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Maged Elgamal</h1>
-<h3 align="center">DevOps survivor trying to find alien life form in the vast darkness of the terminal screen . Country of origin Egypt ⁦🇪🇬⁩ | MBA student at UEL</h3>
+<h3 align="center">DevOps survivor trying to find alien life form in the vast darkness of the terminal screen . Country of origin Egypt ⁦🇪🇬⁩ | MBA student at UEL | Residing in Dublin 🇮🇪 </h3>
 
 - 📝 I regularly write articles on [https://magedelgamal.medium.com/](https://magedelgamal.medium.com/)
 - 📫 How to reach me **Maged.algmal@gmail.com**
