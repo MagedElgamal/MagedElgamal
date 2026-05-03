@@ -1,6 +1,6 @@
 # Maged Elgamal
 
-**Senior SRE / Cloud Operations Engineer — Building and running production infrastructure that doesn't wake people up at 3 AM.**
+**Senior SRE / DevOps Engineer — Building and running production infrastructure that doesn't wake people up at 3 AM.**
 
 ---
 
@@ -32,6 +32,7 @@ Senior Cloud Operations Engineer with 9 years of experience across public sector
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![incident.io](https://img.shields.io/badge/incident.io-F25533?style=for-the-badge&logoColor=white)
 
 ### 🔐 Security & Secrets
 ![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
