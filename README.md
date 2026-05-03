@@ -1,32 +1,111 @@
+# Maged Elgamal
 
+**Senior SRE / Cloud Operations Engineer — Building and running production infrastructure that doesn't wake people up at 3 AM.**
 
-<!--
-**MagedElgamal/MagedElgamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Maged Elgamal</h1>
-<h3 align="center">DevOps survivor trying to find alien life form in the vast darkness of the terminal screen . Country of origin Egypt ⁦🇪🇬⁩ | MBA student at UEL | Residing in Dublin 🇮🇪 </h3>
+Senior Cloud Operations Engineer with 9 years of experience across public sector, startup, and enterprise environments. Currently at **DocuSign**, where I transitioned to the eSign product team while retaining operational ownership of the Insight product — building reliability into systems that handle millions of transactions. I specialize in cloud infrastructure, platform automation, and observability at scale. Based in Dublin, Ireland 🇮🇪 — originally from Egypt 🇪🇬.
 
-- 📝 I regularly write articles on [https://magedelgamal.medium.com/](https://magedelgamal.medium.com/)
-- 📫 How to reach me **Maged.algmal@gmail.com**
+---
 
-- 📫 I am mentoring on ADPList 🚀! You can book a 1:1 session with me in no time! [https://adplist.org/mentors/maged-elgamal](https://adplist.org/mentors/maged-elgamal)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T2l9tS3TzIQe-V_zT4Gv1XQJ4BFBkdLV/view?usp=sharing](https://drive.google.com/file/d/1T2l9tS3TzIQe-V_zT4Gv1XQJ4BFBkdLV/view?usp=sharing)
+## 🛠️ Core Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/magedelgamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magedelgamal" height="30" width="40" /></a>
+### ☁️ Cloud
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🏗️ Infrastructure as Code & Configuration
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+
+### 🔄 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 📊 Observability & Incident Response
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+### 🔐 Security & Secrets
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+
+### 🗄️ Data
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🎯 What I Do
+
+- **Infrastructure as Code** — Design multi-environment GCP infrastructure with Terraform, enabling zero-touch provisioning across dev, staging, and production
+- **Kubernetes Platform Operations** — Run and scale Kubernetes clusters in production, owning reliability from deployment pipelines to pod-level health
+- **Observability & Monitoring** — Build full-stack observability with Grafana, OpenTelemetry, and PagerDuty — reducing MTTR and driving data-informed incident response
+- **CI/CD Pipeline Engineering** — Architect and maintain Jenkins-based delivery pipelines that ship code safely and frequently across multiple product lines
+- **Incident Response & On-Call** — Operate as a frontline responder with structured incident management, blameless postmortems, and SLO-driven reliability practices
+- **Secrets Management & Security** — Manage secrets lifecycle with HashiCorp Vault, enforcing least-privilege access and automated credential rotation
+
+---
+
+## 🧑‍🏫 Mentorship & Community
+
+I actively mentor engineers on **SRE, DevOps career paths, and cloud engineering** through two platforms:
+
+- 🔗 [**ADPList**](https://adplist.org/mentors/maged-elgamal) — Book a free 1:1 session
+- 🔗 [**MentorCruise**](https://mentorcruise.com/) — Long-term mentorship for engineers leveling up in SRE and platform engineering
+
+Giving back is how I stay sharp. Teaching forces clarity.
+
+---
+
+## ✍️ Writing & Thought Leadership
+
+I write about SRE practices, DevOps culture, cloud infrastructure, and lessons learned from production incidents on Medium.
+
+📝 [**magedelgamal.medium.com**](https://magedelgamal.medium.com/)
+
+---
+
+## 🎙️ Side Project
+
+**Deploying Wealth** — A personal finance podcast for tech professionals. Because building systems that compound isn't just for infrastructure.
+
+---
+
+## 🎓 Education
+
+**MBA** — University of East London *(in progress)*
+Business strategy and operations management, complementing 9 years of technical depth with the commercial acumen needed for Staff+ and engineering leadership roles.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MagedElgamal&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagedElgamal&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
+
+## 📬 Let's Connect
+
+If you're building reliability-focused teams or want to talk SRE, cloud infrastructure, or DevOps career growth — I'm always up for a conversation.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/magedelgamal)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://magedelgamal.medium.com/)
+[![ADPList](https://img.shields.io/badge/ADPList-6B3FA0?style=for-the-badge&logoColor=white)](https://adplist.org/mentors/maged-elgamal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maged.algmal@gmail.com)
