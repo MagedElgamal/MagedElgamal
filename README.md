@@ -84,13 +84,6 @@ I write about SRE practices, DevOps culture, cloud infrastructure, and lessons l
 
 ---
 
-## 🎓 Education
-
-**MBA** — University of East London *(in progress)*
-Business strategy and operations management, complementing 9 years of technical depth with the commercial acumen needed for Staff+ and engineering leadership roles.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
