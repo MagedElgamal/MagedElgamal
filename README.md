@@ -2,13 +2,13 @@
 
 **Senior SRE / DevOps Engineer — Building and running production infrastructure that doesn't wake people up at 3 AM.**
 
-📍 Dublin, Ireland 🇮🇪 &nbsp;·&nbsp; 🏢 DocuSign &nbsp;·&nbsp; ⏱️ 9+ years in cloud operations &nbsp;·&nbsp; 🧑‍🏫 Mentoring on [ADPList](https://adplist.org/mentors/maged-elgamal)
+📍 Dublin, Ireland 🇮🇪 &nbsp;·&nbsp; ⏱️ 9+ years in cloud operations &nbsp;·&nbsp; 🧑‍🏫 Mentoring on [ADPList](https://adplist.org/mentors/maged-elgamal)
 
 ---
 
 ## 👤 About
 
-Senior SRE / DevOps Engineer with 9+ years of experience across public sector, startup, and enterprise environments. Currently at **DocuSign** on the eSign product team, while retaining operational ownership of the Insight product — building reliability into systems that handle millions of transactions.
+Senior SRE / DevOps Engineer with 9+ years of experience across public sector, startup, and enterprise environments, building reliability into systems that handle millions of transactions.
 
 I specialise in cloud infrastructure, platform automation, and observability at scale. Originally from Egypt 🇪🇬, now based in Dublin 🇮🇪.
 
@@ -68,13 +68,8 @@ Giving back is how I stay sharp. Teaching forces clarity.
 
 I write about SRE practices, DevOps culture, cloud infrastructure, and lessons learned from production incidents.
 
-📝 [**magedelgamal.medium.com**](https://magedelgamal.medium.com/)
-
----
-
-## 🎙️ Side Project
-
-**Deploying Wealth** — A personal finance podcast for tech professionals. Because building systems that compound isn't just for infrastructure.
+- 📝 [**Substack**](https://substack.com/@magedelgamal/posts)
+- 📝 [**Medium**](https://magedelgamal.medium.com/)
 
 ---
 
@@ -94,6 +89,7 @@ I write about SRE practices, DevOps culture, cloud infrastructure, and lessons l
 If you're building reliability-focused teams or want to talk SRE, cloud infrastructure, or DevOps career growth, I'm always up for a conversation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/magedelgamal)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@magedelgamal/posts)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://magedelgamal.medium.com/)
 [![ADPList](https://img.shields.io/badge/ADPList-6B3FA0?style=for-the-badge&logoColor=white)](https://adplist.org/mentors/maged-elgamal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maged.algmal@gmail.com)
